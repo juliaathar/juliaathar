@@ -14,6 +14,4 @@
   <img align="center" alt="figma" src="https://img.shields.io/badge/Figma-0d1117?style=for-the-badge&logo=figma&logoColor=white" />
 </div><br/>
 
-<p align="center">
-  <img src="https://github.com/seu-nome-de-usuario/seu-nome-de-usuario/blob/output/github-contribution-grid-snake.svg" alt="snake">
-</p>
+![snake gif](https://github.com/juliaathar/juliaathar/blob/output/github-contribution-grid-snake.svg)
