@@ -1,4 +1,5 @@
-### Hi there 👋
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=4000&width=700&lines=Ol%C3%A1+dev%2C+seja+bem-vindo(a)!;Saiba+mais+sobre+mim+aqui+ツ)](https://git.io/typing-svg)
+<img src="umbreon-shiny.gif" align="center" alt="">
 
   ![Júlia's GitHub stats](https://github-readme-stats.vercel.app/api?username=juliaathar&show_icons=true&theme=tokyonight)
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juliaathar&layout=compact&theme=tokyonight)
