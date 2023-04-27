@@ -18,6 +18,11 @@
  <img align="center" alt="python" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg">
 </div>
 
+<div style="display: inline_block">
+ <h2> Formação acadêmica 🎓 </h2>
+ 📌 Curso técnico em desenvolvimento de sistemas - SENAI (conclusão em dez/2024)
+</div>
+
 ## Contatos ✉️
   [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/j%C3%BAlia-a-492a22207/)
   [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:juliaranyol@gmail.com)
