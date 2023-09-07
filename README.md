@@ -15,7 +15,7 @@
  <h2> Ferramentas ⚙️</h2>
   <img align="center" alt="figma" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
    <img align="center" alt="visualstudio" height="30" width="40" src=" https://raw.githubusercontent.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg">
-    <img align="center" alt="vscode" height="30" width="40" src=" https://raw.githubusercontent.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg">
+    <img align="center" alt="vscode" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg">
 </div>
 
 <div style="display: inline_block">
