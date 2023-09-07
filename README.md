@@ -7,15 +7,15 @@
  <h2> Skills 💻 </h2>
   <img align="center" alt="csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
  <img align="center" alt="python" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg">
- <img align="center" alt="html" height="30" width="40" src="https://github.com/devicons/devicon/master/icons/html5/html5-original.svg">
- <img align="center" alt="css" height="30" width="40" src="https://github.com/devicons/devicon/master/icons/css3/css3-original.svg"> 
+ <img align="center" alt="html" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+ <img align="center" alt="css" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> 
 </div>
 
 <div style="display: inline_block">
  <h2> Ferramentas ⚙️</h2>
   <img align="center" alt="figma" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
-   <img align="center" alt="visualstudio" height="30" width="40" src=" https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg">
-    <img align="center" alt="vscode" height="30" width="40" src=" https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg">
+   <img align="center" alt="visualstudio" height="30" width="40" src=" https://raw.githubusercontent.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg">
+    <img align="center" alt="vscode" height="30" width="40" src=" https://raw.githubusercontent.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg">
 </div>
 
 <div style="display: inline_block">
