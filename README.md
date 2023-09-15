@@ -11,14 +11,14 @@
  <img align="center" alt="css" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> 
 </div>
 
- <h2> Tools ⚙️</h2>
 <div align="center" style="display: inline_block">
+  <h2> Tools ⚙️</h2>
     <img align="center" alt="visualstudio" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg">
     <img align="center" alt="vscode" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg">
   <img align="center" alt="figma" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
 </div>
 
-<div style="display: inline_block">
+<div align="center" style="display: inline_block">
  <h2> Formação acadêmica 🎓 </h2>
  📌 Curso técnico em desenvolvimento de sistemas - SENAI (conclusão em dez/2024)
 </div>
