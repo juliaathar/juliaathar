@@ -26,8 +26,6 @@
 <div style="display: inline_block">
  <h2> Formação acadêmica 🎓 </h2>
  📌 Curso técnico em desenvolvimento de sistemas - SENAI (conclusão em dez/2024)
- <br>
- 📌 Curso Profissionalizante CO.DE School: Fundação Grupo Volkswagen - SENAI (conclusão em fev/2024)
 </div>
 
 ## Contatos ✉️
