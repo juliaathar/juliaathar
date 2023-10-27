@@ -33,6 +33,11 @@
  📌 CO.DE School Fundação Volkswagen - SENAI Paulo Skaf (conclusão em fev/2024)
 </div>
 
+<div style="display: inline_block">
+ <h2> Certificações 🏆 </h2>
+ <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="7fb68213-5fcf-4f77-b436-05c9154f706e" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+</div>
+
 ## Contatos ✉️
   [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juliaathar/)
   [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:juliaranyol@gmail.com)
