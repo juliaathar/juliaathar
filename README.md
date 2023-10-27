@@ -35,7 +35,7 @@
 
 <div style="display: inline_block">
  <h2> Certificações 🏆 </h2>
- <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="7fb68213-5fcf-4f77-b436-05c9154f706e" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+ <img align="center" alt="Microsoft Certified: Azure Fundamentals" height="30" width="30" src="https://www.credly.com/badges/7fb68213-5fcf-4f77-b436-05c9154f706e/public_url">
 </div>
 
 ## Contatos ✉️
