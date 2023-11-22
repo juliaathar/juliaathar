@@ -41,6 +41,9 @@
   <a href="https://www.credly.com/earner/earned/badge/45f31a15-2c0b-437d-9214-aacb660078d5">
   <img width="10%" height="10%"  src="https://images.credly.com/size/680x680/images/4136ced8-75d5-4afb-8677-40b6236e2672/azure-ai-fundamentals-600x600.png"/>
  </a>
+   <a href="https://www.credly.com/badges/227b4900-51a6-4cce-81c5-5b7f212622b8">
+  <img width="20%" height="20%"  src="https://images.credly.com/size/680x680/images/fc1352af-87fa-4947-ba54-398a0e63322e/security-compliance-and-identity-fundamentals-600x600.png"/>
+ </a>
 </div>
 
 ## Contatos ✉️
