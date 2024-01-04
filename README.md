@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Montserrat&weight=600&size=30&center=true&vCenter=true&pause=1000&color=6A99E9&width=1000&lines=Ol%C3%A1%2C+seja+bem-vindo(a)+ao+meu+perfil!)](https://git.io/typing-svg)
 
 <div align="center" > 
- <h4>👩🏾‍💻 Me chamo Júlia e sou estudante de Desenvolvimento de Sistemas no SENAI "Paulo Antônio Skaf", atualmente no 2º semestre.
+ <h4>👩🏾‍💻 Me chamo Júlia e sou estudante de Desenvolvimento de Sistemas no SENAI "Paulo Antônio Skaf", atualmente no 3º semestre.
   Minha paixão pela tecnologia me motiva a buscar oportunidades para aprender e crescer como desenvolvedora!</h4>
 </div>
 
