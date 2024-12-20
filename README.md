@@ -3,7 +3,7 @@
 <div align="center" > 
  <h4>👩🏾‍💻 Me chamo Júlia e sou Desenvolvedora de Sistemas formada pelo SENAI "Paulo Antônio Skaf".
    <br>
-    Atuo como desenvolvedora Fullstack, com foco em Mobile e Back-End</h4>
+    Atuo como Desenvolvedora Fullstack, com foco em Mobile e Back-End</h4>
 </div>
 
  ![Júlia's GitHub stats](https://github-readme-stats.vercel.app/api?username=juliaathar&show_icons=true&theme=tokyonight)
