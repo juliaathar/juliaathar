@@ -39,6 +39,8 @@
 
 <div style="display: inline_block">
  <h2> Formação acadêmica 🎓 </h2>
+ 📌 Tecnólogo em Inteligência Artificial - FIAP Paulista (conclusão em dez/2026)
+ <br>
  📌 Curso Técnico em Desenvolvimento de Sistemas - SENAI Paulo Antonio Skaf (conclusão em dez/2024)
  <br>
  📌 CO.DE School Fundação Volkswagen - SENAI Paulo Skaf (conclusão em fev/2024)
@@ -60,4 +62,3 @@
 ## Contatos ✉️
   [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juliaathar/)
   [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:juliaranyol@gmail.com)
-
