@@ -1,13 +1,12 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Montserrat&weight=600&size=30&center=true&vCenter=true&pause=1000&color=6A99E9&width=1000&lines=Ol%C3%A1%2C+seja+bem-vindo(a)+ao+meu+perfil!)](https://git.io/typing-svg)
 
 <div align="center" > 
- <h4>👩🏾‍💻 Me chamo Júlia e sou Desenvolvedora de Sistemas formada pelo SENAI "Paulo Antônio Skaf".
+ <h4>👩🏾‍💻 Me chamo Júlia, Desenvolvedora Fullstack na Darede.
    <br>
-    Atuo como Desenvolvedora Fullstack, com foco em Mobile e Back-End</h4>
+  🤖 Me especializando em IA na FIAP, com foco em Machine Learning e Deep Learning e Data Science.
 </div>
 
- ![Júlia's GitHub stats](https://github-readme-stats.vercel.app/api?username=juliaathar&show_icons=true&theme=tokyonight)
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juliaathar&layout=compact&theme=tokyonight)
+
 
 <div style="display: inline_block">
  <h2> Skills 💻 </h2>
