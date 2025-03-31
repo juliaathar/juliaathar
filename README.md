@@ -6,7 +6,8 @@
   🤖 Me especializando em IA na FIAP, com foco em Machine Learning e Deep Learning e Data Science.
 </div>
 
-
+ ![Júlia's GitHub stats](https://github-readme-stats.vercel.app/api?username=juliaathar&show_icons=true&theme=tokyonight)
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juliaathar&layout=compact&theme=tokyonight)
 
 <div style="display: inline_block">
  <h2> Skills 💻 </h2>
