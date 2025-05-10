@@ -42,8 +42,6 @@
  <br>
  📌 Curso Técnico em Desenvolvimento de Sistemas - SENAI Paulo Antonio Skaf (conclusão em dez/2024)
  <br>
- 📌 CO.DE School Fundação Volkswagen - SENAI Paulo Skaf (conclusão em fev/2024)
-</div>
 
 <div style="display: inline_block">
  <h2> Certificações 🏆 </h2>
