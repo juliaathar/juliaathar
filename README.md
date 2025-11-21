@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Montserrat&weight=600&size=30&center=true&vCenter=true&pause=1000&color=327FE5&width=1000&lines=Ol%C3%A1%2C+seja+bem-vindo(a)+ao+meu+perfil!)](https://git.io/typing-svg)
 
 <div align="start" > 
- <h4>👩🏾‍💻 Me chamo Júlia, Desenvolvedora Fullstack na Darede.
+ <h4>👩🏾‍💻 Me chamo Júlia, DevOps na Porto.
    <br>
   🤖 Me especializando em IA na FIAP, com foco em Machine Learning, Deep Learning e Data Science.
   <br>
@@ -17,7 +17,6 @@
   <img align="center" alt="sqlserver" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg">
   <img align="center" alt="mysql" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg">
    <img align="center" alt="javascript" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg">
-   <img align="center" alt="typescript" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg">
    <img align="center" alt="react" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg">
   <img align="center" alt="aws" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg">
   <img align="center" alt="azure" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg">
