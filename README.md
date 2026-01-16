@@ -6,6 +6,8 @@
   🤖 Me especializando em IA na FIAP, com foco em Machine Learning, Deep Learning e Data Science.
   <br>
   🥈 Ex-competidora e vice-campeã da SPSkills 2025 (WorldSkills) na modalidade #08 - Desenvolvimento de Aplicativos Móveis
+  <br>
+  🥈 2°Lugar do NEXT FIAP 2025 - Inteligência Artificial
 </div>
 
 <div style="display: inline_block">
