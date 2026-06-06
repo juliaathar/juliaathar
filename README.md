@@ -49,6 +49,9 @@
 
 <div style="display: inline_block">
  <h2> Certificações 🏆 </h2>
+   <a href="https://www.credly.com/earner/earned/badge/988528a2-45d9-4f4c-bdcd-781677d8a5ef">
+  <img width="10%" height="10%"  src="https://images.credly.com/size/340x340/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png"/>
+ </a>
   <a href="https://www.credly.com/earner/earned/badge/c22e5494-aa70-43b1-a0d1-5c03d50dbf65">
   <img width="10%" height="10%"  src="https://images.credly.com/size/340x340/images/4d4693bb-530e-4bca-9327-de07f3aa2348/image.png"/>
  </a>
